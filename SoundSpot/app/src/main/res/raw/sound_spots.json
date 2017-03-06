@@ -1,0 +1,84 @@
+[
+  {
+    "category": "tourism",
+    "uuid": "c670ea8c-9bba-4281-8faa-fde9535cc43a",
+    "name": "Nikolaikirche",
+    "location": {
+      "lat": 51.340249,
+      "lng": 12.378942,
+      "radius": 150.0
+    },
+    "soundUrl": "https://uc-testing.ahoyrtc.com/glocken.m4a",
+    "loopSound": true,
+    "infoUrl": "http://www.nikolaikirche.de/"
+  },
+  {
+    "category": "tourism",
+    "uuid": "02c779a5-7fc3-4a38-bf69-3c93b746a500",
+    "name": "Peterskirche",
+    "location": {
+      "lat": 51.330546,
+      "lng": 12.376168,
+      "radius": 75.0
+    },
+    "soundUrl": "https://uc-testing.ahoyrtc.com/glocken.m4a",
+    "loopSound": true,
+    "infoUrl": "http://peterskirche-leipzig.de/"
+  },
+  {
+    "category": "music",
+    "uuid": "9acf93c1-da3c-4cc8-95a4-acb489d580a5",
+    "name": "Thomaskirche",
+    "location": {
+      "lat": 51.339292,
+      "lng": 12.372695,
+      "radius": 75.0
+    },
+    "soundUrl": "https://uc-testing.ahoyrtc.com/toccata.mp3",
+    "loopSound": true,
+    "infoUrl": "https://www.thomaskirche.org/"
+  },
+  {
+    "category": "news",
+    "uuid": "6d0fa8e0-b2d2-4273-b559-d888a0995f2a",
+    "name": "Leipziger Volkszeitung",
+    "location": {
+      "lat": 51.331915,
+      "lng": 12.375056,
+      "radius": 50.0
+    },
+    "beacon": {
+      "id": "000000000001"
+    },
+    "soundUrl": "https://uc-testing.ahoyrtc.com/glocken.m4a",
+    "loopSound": true,
+    "infoUrl": "http://www.lvz.de/"
+  },
+  {
+    "category": "news",
+    "uuid": "aa0d6bd1-2d98-4a0c-86f5-7c099d9ced65",
+    "name": "Bundesverwaltungsgericht",
+    "location": {
+      "lat": 51.333228,
+      "lng":  12.370230,
+      "radius": 50.0
+    },
+    "soundUrl": "https://uc-testing.ahoyrtc.com/elbvertiefung.mp3",
+    "loopSound": false,
+    "infoUrl": "http://www.bverwg.de/"
+  },
+  {
+    "category": "geopodcast",
+    "uuid": "aa0d6bd1-2d98-4a0c-86f5-7c099d9ce654",
+    "name": "Basislager Coworking",
+    "location": {
+      "lat": 51.332190,
+      "lng":   12.373423,
+      "radius": 30.0
+    },
+    "soundUrl": "https://uc-testing.ahoyrtc.com/soundspot.mp3",
+    "loopSound": false,
+    "infoUrl": "http://basislager.co/"
+  }
+
+]
